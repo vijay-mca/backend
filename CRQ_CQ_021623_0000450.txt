@@ -1,0 +1,161 @@
+A5206S6H      021623     C1                                                     
+B  5206S6HC1                                               CRQ_CQ_021623_0000450
+WR1                                       TPA TPA4212 20230214    4212 021423   
+WR2                                                                         N806
+WSCTPA4212 02142372943665274A 1161  423                                        1
+WSD0214230207131FCBP LOCAL TRANSFER AUTHORIZED                                  
+WSD0214230214502HCBPA HOLD AT PORT OF ARRIVAL                                   
+WSD021423041748P3CBP LOCAL TRANSFER ARRIVED                                     
+WN1            52065206                                                         
+WSCTPA4212 02142372943665274A 1161  423MDE05437609    423                      1
+WSD0214230214502HCBPA HOLD AT PORT OF ARRIVAL                                   
+WSD0214230636161CENTER AND RELEASED GENERAL EXAM         9B712983169            
+WSD0214231506524EENTRY CANCEL / DELETE                   9B712983169            
+WSD0214231506521CENTER AND RELEASED GENERAL EXAM         9B712983169            
+WSD0214231629164EENTRY CANCEL / DELETE                   9B712983169            
+WSD0214231629161CENTER AND RELEASED GENERAL EXAM         9B712983169            
+WSD0215230111444EENTRY CANCEL / DELETE                   9B712983169            
+WSD0215230111441CENTER AND RELEASED GENERAL EXAM         9B712983169            
+WN1            52065206                                                         
+WR1                                       TPA TPA4018 20230215    4018 021523   
+WR2                                                                         N806
+WSCTPA4018 02152372943665274B 1161  738                                        1
+WSD0215230300002HCBPA HOLD AT PORT OF ARRIVAL                                   
+WSD0215230447071FCBP LOCAL TRANSFER AUTHORIZED                                  
+WSD021523091300P3CBP LOCAL TRANSFER ARRIVED                                     
+WN1            52065206                                                         
+WSCTPA4018 02152372943665274B 1161  738MDE05437610      5                      1
+WSD0215230111441CENTER AND RELEASED GENERAL EXAM         9B712983169            
+WSD0215230300002HCBPA HOLD AT PORT OF ARRIVAL                                   
+WN1            52065206                                                         
+WSCTPA4018 02152372943665274B 1161  738MDE05437611    340                      1
+WSD0215230111441CENTER AND RELEASED GENERAL EXAM         9B712983169            
+WSD0215230300002HCBPA HOLD AT PORT OF ARRIVAL                                   
+WN1            52065206                                                         
+WSCTPA4018 02152372943665274B 1161  738MDE05437612     43                      1
+WSD0215230111441CENTER AND RELEASED GENERAL EXAM         9B712983169            
+WSD0215230300002HCBPA HOLD AT PORT OF ARRIVAL                                   
+WN1            52065206                                                         
+WSCTPA4018 02152372943665274B 1161  738MDE05437616      5                      1
+WSD0215230300002HCBPA HOLD AT PORT OF ARRIVAL                                   
+WSD0215231832071CENTER AND RELEASED GENERAL EXAM         9B712984845            
+WN1            52065206                                                         
+WSCTPA4018 02152372943665274B 1161  738MDE05437617      6                      1
+WSD0215230300002HCBPA HOLD AT PORT OF ARRIVAL                                   
+WSD0215231645291CENTER AND RELEASED GENERAL EXAM         9B712984837            
+WN1            52065206                                                         
+WSCTPA4018 02152372943665274B 1161  738MDE05437618      2                      1
+WSD0215230300002HCBPA HOLD AT PORT OF ARRIVAL                                   
+WSD0215231645291CENTER AND RELEASED GENERAL EXAM         9B712984837            
+WN1            52065206                                                         
+WSCTPA4018 02152372943665274B 1161  738MDE05437619      8                      1
+WSD0215230300002HCBPA HOLD AT PORT OF ARRIVAL                                   
+WSD0215231645291CENTER AND RELEASED GENERAL EXAM         9B712984837            
+WN1            52065206                                                         
+WSCTPA4018 02152372943665274B 1161  738MDE05437620      2                      1
+WSD0215230300002HCBPA HOLD AT PORT OF ARRIVAL                                   
+WSD0215231645291CENTER AND RELEASED GENERAL EXAM         9B712984837            
+WN1            52065206                                                         
+WSCTPA4018 02152372943665274B 1161  738MDE05437621      2                      1
+WSD0215230300002HCBPA HOLD AT PORT OF ARRIVAL                                   
+WSD0215231645291CENTER AND RELEASED GENERAL EXAM         9B712984837            
+WN1            52065206                                                         
+WSCTPA4018 02152372943665274B 1161  738MDE05437622      3                      1
+WSD0215230300002HCBPA HOLD AT PORT OF ARRIVAL                                   
+WSD0215231832071CENTER AND RELEASED GENERAL EXAM         9B712984845            
+WN1            52065206                                                         
+WSCTPA4018 02152372943665274B 1161  738MDE05437623      2                      1
+WSD0215230300002HCBPA HOLD AT PORT OF ARRIVAL                                   
+WSD0215231832071CENTER AND RELEASED GENERAL EXAM         9B712984845            
+WN1            52065206                                                         
+WSCTPA4018 02152372943665274B 1161  738MDE05437624      4                      1
+WSD0215230300002HCBPA HOLD AT PORT OF ARRIVAL                                   
+WSD0215231645291CENTER AND RELEASED GENERAL EXAM         9B712984837            
+WN1            52065206                                                         
+WSCTPA4018 02152372943665274B 1161  738MDE05437625      6                      1
+WSD0215230300002HCBPA HOLD AT PORT OF ARRIVAL                                   
+WSD0215231645291CENTER AND RELEASED GENERAL EXAM         9B712984837            
+WN1            52065206                                                         
+WSCTPA4018 02152372943665274B 1161  738MDE05437626      1                      1
+WSD0215230300002HCBPA HOLD AT PORT OF ARRIVAL                                   
+WSD0215231645291CENTER AND RELEASED GENERAL EXAM         9B712984837            
+WN1            52065206                                                         
+WSCTPA4018 02152372943665274B 1161  738MDE05437627      2                      1
+WSD0215230300002HCBPA HOLD AT PORT OF ARRIVAL                                   
+WSD0215231645291CENTER AND RELEASED GENERAL EXAM         9B712984837            
+WN1            52065206                                                         
+WSCTPA4018 02152372943665274B 1161  738MDE05437628     46                      1
+WSD0215230300002HCBPA HOLD AT PORT OF ARRIVAL                                   
+WSD0215231832071CENTER AND RELEASED GENERAL EXAM         9B712984845            
+WN1            52065206                                                         
+WSCTPA4018 02152372943665274B 1161  738MDE05437629     18                      1
+WSD0215230300002HCBPA HOLD AT PORT OF ARRIVAL                                   
+WSD0215231645291CENTER AND RELEASED GENERAL EXAM         9B712984837            
+WN1            52065206                                                         
+WSCTPA4018 02152372943665274B 1161  738MDE05437630     17                      1
+WSD0215230300002HCBPA HOLD AT PORT OF ARRIVAL                                   
+WSD0215231645291CENTER AND RELEASED GENERAL EXAM         9B712984837            
+WN1            52065206                                                         
+WSCTPA4018 02152372943665274B 1161  738MDE05437631     44                      1
+WSD0215230300002HCBPA HOLD AT PORT OF ARRIVAL                                   
+WSD0215231645291CENTER AND RELEASED GENERAL EXAM         9B712984837            
+WN1            52065206                                                         
+WSCTPA4018 02152372943665274B 1161  738MDE05437633     55                      1
+WSD0215230300002HCBPA HOLD AT PORT OF ARRIVAL                                   
+WSD0215231645291CENTER AND RELEASED GENERAL EXAM         9B712984837            
+WN1            52065206                                                         
+WSCTPA4018 02152372943665274B 1161  738MDE05437725      4                      1
+WSD0215230300002HCBPA HOLD AT PORT OF ARRIVAL                                   
+WSD0215231832071CENTER AND RELEASED GENERAL EXAM         9B712984845            
+WN1            52065206                                                         
+WSCTPA4018 02152372943665274B 1161  738MDE05437899      3                      1
+WSD0215230300002HCBPA HOLD AT PORT OF ARRIVAL                                   
+WN1            52065206                                                         
+WSCTPA4018 02152372943665274B 1161  738MDE05437900      2                      1
+WSD0215230300002HCBPA HOLD AT PORT OF ARRIVAL                                   
+WN1            52065206                                                         
+WSCTPA4018 02152372943665274B 1161  738MDE05437901     19                      1
+WSD0215230300002HCBPA HOLD AT PORT OF ARRIVAL                                   
+WN1            52065206                                                         
+WSCTPA4018 02152372943665274B 1161  738MDE05437902      1                      1
+WSD0215230300002HCBPA HOLD AT PORT OF ARRIVAL                                   
+WSD0215231832071CENTER AND RELEASED GENERAL EXAM         9B712984845            
+WN1            52065206                                                         
+WSCTPA4018 02152372943665274B 1161  738MDE05437903      1                      1
+WSD0215230300002HCBPA HOLD AT PORT OF ARRIVAL                                   
+WN1            52065206                                                         
+WSCTPA4018 02152372943665274B 1161  738MDE05437904     12                      1
+WSD0215230300002HCBPA HOLD AT PORT OF ARRIVAL                                   
+WN1            52065206                                                         
+WSCTPA4018 02152372943665274B 1161  738MDE05437905      3                      1
+WSD0215230300002HCBPA HOLD AT PORT OF ARRIVAL                                   
+WN1            52065206                                                         
+WSCTPA4018 02152372943665274B 1161  738MDE05437906      1                      1
+WSD0215230300002HCBPA HOLD AT PORT OF ARRIVAL                                   
+WN1            52065206                                                         
+WSCTPA4018 02152372943665274B 1161  738MDE05437907     31                      1
+WSD0215230300002HCBPA HOLD AT PORT OF ARRIVAL                                   
+WN1            52065206                                                         
+WSCTPA4018 02152372943665274B 1161  738MDE05437908      4                      1
+WSD0215230300002HCBPA HOLD AT PORT OF ARRIVAL                                   
+WN1            52065206                                                         
+WSCTPA4018 02152372943665274B 1161  738MDE05437909      5                      1
+WSD0215230300002HCBPA HOLD AT PORT OF ARRIVAL                                   
+WN1            52065206                                                         
+WSCTPA4018 02152372943665274B 1161  738MDE05437918      3                      1
+WSD0215230300002HCBPA HOLD AT PORT OF ARRIVAL                                   
+WSD0215231832071CENTER AND RELEASED GENERAL EXAM         9B712984845            
+WN1            52065206                                                         
+WSCTPA4018 02152372943665274B 1161  738MDE05438196      7                      1
+WSD0215230300002HCBPA HOLD AT PORT OF ARRIVAL                                   
+WN1            52065206                                                         
+WSCTPA4018 02152372943665274B 1161  738MDE05438730     13                      1
+WSD0215230111441CENTER AND RELEASED GENERAL EXAM         9B712983169            
+WSD0215230300002HCBPA HOLD AT PORT OF ARRIVAL                                   
+WN1            52065206                                                         
+WSCTPA4018 02152372943665274B 1161  738MDE05438752     18                      1
+WSD0215230111441CENTER AND RELEASED GENERAL EXAM         9B712983169            
+WSD0215230300002HCBPA HOLD AT PORT OF ARRIVAL                                   
+WN1            52065206                                                         
+Y  5206S6HC100157                                                               
+Z5206S6H      021623                                                            
